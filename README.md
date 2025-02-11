@@ -72,11 +72,6 @@ The repository structure remains largely unchanged, with necessary modifications
    struct pstat statuses;
    getpinfo(&statuses);
    ```
-3. **Run `ps.c` to View Process Details:**
-   ```sh
-   make ps
-   ./ps
-   ```
 
 ---
 
